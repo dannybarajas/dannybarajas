@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/dannybarajas/dannybarajas/blob/master/assets/Banner_Danny_Github.png?raw=true" alt="Profile header" width="100%" />
+    <img src="assets/Banner_Danny_Github.png?raw=true" alt="Profile header" width="100%" />
 </div>
 
 <div align="center">
