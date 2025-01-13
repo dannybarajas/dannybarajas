@@ -1,27 +1,101 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I'm Danny Barajas
-=====================================================================================================================================
+<div align="center">
+    <img src="https://github.com/dannybarajas/dannybarajas/blob/master/assets/Banner_Danny_Github.png?raw=true" alt="Profile header" width="100%" />
+</div>
 
-I'm a **Full-Stack Developer** with 11+ years of experience in the whole software development life cycle providing IT solutions for private and public organizations, developing web applications using Python, Django, PHP, Laravel, JavaScript, ReactJS, PostgreSQL, HTML5, CSS, Docker, API, Microservices, Linux, Wordpress, Cloud Services (AWS), Tests and excellent soft skills.
+<div align="center">
+   👉 <a href="https://beacons.ai/dannybarajas">
+        <img src="https://img.shields.io/badge/Check%20Out%20My%20Socials,%20Projects,%20and%20Links-4CAF50?style=for-the-badge&logo=link&logoColor=white&labelColor=4CAF50" alt="Check Out My Socials, Projects, and Links">
+    </a> 👈
+</div>
 
+
+<br/>
+
+## ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I'm Danny A. Barajas M.
+I'm a Full-Stack  with over 11 years of experience delivering tailored software solutions for both private and public organizations. My expertise lies in Python, JavaScript, and modern frameworks like Django, React, and Vue.js, enabling me to build robust, scalable, and efficient applications.
+
+I've successfully built projects from scratch and also taken incomplete projects, transforming them into production-ready applications. My experience spans individual contributions as well as leading collaborative teams, driving projects to completion while fostering a positive work environment and encouraging professional growth among team members.
+
+One of my most notable achievements is the development and maintenance of [Masw.ai](https://masw.ai/en/login), the world’s first and only cloud-based, machine learning-assisted MASW processing platform. This project incorporated advanced tools and technologies, including Celery, Redis, Docker, AI, CI/CD pipelines, and AWS, to deliver an innovative, scalable solution that has set a new standard in the industry.
+
+### 🤝 Let's Connect!
+I’m always excited to explore new projects and opportunities to collaborate. Let’s connect and create something impactful together! You can find my socials [here](https://beacons.ai/dannybarajas/)
+
+---
+
+## 🚀 Technologies & Tools
+Here are just some of the tech and tools I use:
+
+- **Languages:** Python, JavaScript, PHP
+- **Framework/Libraries:** Django, Django Rest Framework, FastAPI, Vue.js, Nuxt.js, React.js
+- **Databases:** PostgreSQL, MongoDB, MySQL
+- **Cloud Providers:** AWS, GCP
+- **Version Control:** Git, GitHub, GitLab, Bitbucket
+- **DevOps/CI/CD:** Docker, GitHub Actions, GitLab CI/CD, Jenkins
+- **Task Queues:** Celery, Redis
+- **API Development/Testing:** Postman, Swagger
+- **Testing Tools:** Pytest, UnitTest, Jest, Cypress
+
+---
+
+## 🎓 Education/Certifications
+I’m passionate about programming and deeply understand its ever-evolving nature. To stay ahead, I’m always learning new technologies and, more importantly, applying what I learn to add value to my projects and work. You can click on each certification or degree name to access the respective proof/documentation.
+
+-  [**Postgraduate Specialization in Artificial Intelligence**. 1150 hours. (2025)](https://www.uniminuto.edu/oferta-academica/especializacion-en-inteligencia-artificial/especializacion-en-inteligencia)
+-  CS50's Web Programming with Python and JavaScript. Harvard University (In progress).
+-  [AI Developer by IBM. 2024](https://www.coursera.org/account/accomplishments/professional-cert/BE9MXF5ND81Y)
+-  [**Django Web Framework by Meta**. 2024](https://www.coursera.org/account/accomplishments/verify/J9XPSRMYTTLV)
+-  [**AWS Developer Associate (2024)**](https://www.credly.com/badges/b364b500-9be0-4aa7-ab49-22ef0aac2d8a/linked_in?t=s8uou6)
+-  [AWS Certified AI Practitioner (2024)](https://www.credly.com/badges/a0e156a2-e99c-41fa-9ee2-128266f46dc4/public_url)
+-  [AWS Cloud Practitioner (2024)](https://www.credly.com/badges/abfef149-c47f-46c3-b019-fc2a5204b2c0/public_url)
+-  [Labor Technician in Programming Skills with an Emphasis on Web Applications. 800 hours. 2023](https://drive.google.com/file/d/1DpGy3qO5-YjekpTjPFTmx33ziWx1iibO/view?usp=sharing)
+-  [**Mision TIC 2022** - Sergio Arboleda University / MinTic. 600 Hours, (2022)](https://drive.google.com/file/d/1DpGy3qO5-YjekpTjPFTmx33ziWx1iibO/view?usp=sharing)
+-  [Django, Javascript, API REST, Git & GitHub, Docker courses. Platzi. 2022](https://drive.google.com/file/d/1TqgMK_nGw-1xh_tNY4I3n7jpBt87FiiO/view?usp=sharing)
+-  [**Software Engineering.** 8600 hours. 2021](https://drive.google.com/file/d/11hwgRM0md9jsZeKRFYqPpHFSu5QrjXel/view?usp=sharing)
+-  [**Data Science for All– Correlation One** / University of Rosario / EAFIT / MinTic. 375 Hours, 2020.](https://www.credential.net/bc5eb548-5ad3-4452-8e18-331f0e1bc1f9)
+-  [**Technologist In Development Of Software.** 5180 houors. (2020)](https://drive.google.com/file/d/1gZ0AeqTxILLfPdk2iAyapJgthJ_rYm3A/view?usp=sharing)
+-  [**Specialization Python for Everybody – University of Michigan**, 2020](https://www.coursera.org/account/accomplishments/specialization/certificate/YKE5PFJV2RUB)
+-  [Information Systems Interoperability through X-Road - National University / 120 hours, 2020](https://drive.google.com/file/d/1Ekzo9P7Shcn6DR9tW4jr4EaoZvdlUZSQ/view?usp=sharing)
+-  [TIC Competencies Diploma in the thematic line of usable and accessible web design – Google Activate, 2018.](https://drive.google.com/file/d/1BuiMj29oaoZtQJuXI9gK9lbRBQtCnuVw/view?usp=sharing)
+-  [TIC Competencies Diploma in the thematic line of Management of Local Information Systems – Google Activate, 2015.](https://drive.google.com/file/d/1P3N5Ln1teFy0v_lG9GzjA3IW4eLqm4a9/view?usp=sharing)
+-  [Systems Engineer. 2015](https://drive.google.com/file/d/1aw34PZJ0q34RT73WQrBF6awnSfhwMMVC/view?usp=sharing)
+- [**Bachelor of Technology**, 1760 hours. 2009](https://drive.google.com/file/d/1ZAEJTwkw4HmnxUpeu1vNuUFSJYH8Yg40/view?usp=sharing)
+
+---
+
+## 🔥 Main Projects
+Here are some of the exciting projects I've been working on lately:
+
+- [**Masw.ai:** The world’s first and only Cloud-Based machine learning assisted MASW processing platform.](https://masw.ai/)
+- [**HRH Workforce** is a platform designed for human resources management and to offer employment opportunities to qualified professionals in the engineering and related fields who are interested in immigrating to Canada.](https://www.hrhworkforce.com)
+- [**Quickrefrac1D:** Cloud-Based Platform for Geophysicists and Geoscientists.](https://quickrefrac.maia-geo.com/)
+- [**SIGAPI:** Streamlining of Procedures for Citizens of the city of Bucaramanga at the Institute of Social Interest Housing and Urban Reform of the Municipality of Bucaramanga (INVISBU). The ability to request the Certificate of Existence and Legal Representation entirely through a virtual platform, human resources management for the  organization, Citizen Service Record (RAC), integrated quality management system, and MIPG (Public Management and Performance Evaluation Model) implementation.]( https://www.sigapi.invisbu.gov.co/)
+- [Personal Website and Portafolio:](https://dannybarajas.com/)
+- [**Tecnuly** Personal Entrepreneurship: Tecnuly is an online store specializing in fruits, vegetables, and healthy products.](https://tecnuly.com/)
+- [**SIGID:** Development of a system for tracking and managing the Development Plan of the Santander Governorate.](https://sigid.santander.gov.co)
+- [**Platform for the management of students' Final Degree Projects at IPRED-UIS.** It has been operational for over 8 years to date. Developed in CodeIgniter (PHP), JavaScript, HTML, CSS, and MySQL. ](https://ead.uis.edu.co)
+
+---
+
+## 🤝 General Information
 * 🌍  I'm based in Los Angeles, CA
-* 🖥️  See my portfolio at [My Portafolio](http://dannybarajas.com)
+* 🗣 I speak English and Spanish
+* 🖥️  See my portfolio at [My iWebsite](http://dannybarajas.com)
 * ✉️  You can contact me at [dbarajasm93@gmail.com](mailto:dbarajasm93@gmail.com)
 * 🚀  I'm currently working on [Geophysics GPR International](http://geophysicsgpr.com/en/)
 * 🧠  I'm learning Django Channels and Signals | AI | Langchain
 * 🤝  I am always ready to give my best effort, as well as to take on new challenges.
 * ⚡  I consider myself a self-taught enthusiast, there have never been excuses when learning something new and I am in constant professional and intellectual development to continue growing with the evolutionary rhythm of my profession.
 
-### Skills
+---
 
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
-</p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
+## 📊 GitHub Stats
 <a href="http://www.github.com/dannybarajas"><img src="https://github-readme-stats.vercel.app/api?username=dannybarajas&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dannybarajas's GitHub stats" /></a>
 
-<a href="https://github.com/dannybarajas" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannybarajas&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/dannybarajas" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannybarajas&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Most%20%Used%20%Languages" alt="Most Used Languages" /></a>
+
+---
+
+### 💬 Get in Touch
+
+For more information, project details, or to connect with me on social media, visit my **[Beacons profile](https://beacons.ai/dannybarajas/)** to find all my links!
