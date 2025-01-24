@@ -26,12 +26,12 @@ I’m always excited to explore new projects and opportunities to collaborate. L
 ## 🚀 Technologies & Tools
 Here are just some of the tech and tools I use:
 
-- **Languages:** Python, JavaScript, PHP
-- **Framework/Libraries:** Django, Django Rest Framework, FastAPI, Vue.js, Nuxt.js, React.js
+- **Languages:** Python, JavaScript, Typescript, PHP
+- **Framework/Libraries:** Django, Django Rest Framework, FastAPI, Vue.js, Nuxt.js, React.js, Next.js
 - **Databases:** PostgreSQL, MongoDB, MySQL
 - **Cloud Providers:** AWS, GCP
 - **Version Control:** Git, GitHub, GitLab, Bitbucket
-- **DevOps/CI/CD:** Docker, GitHub Actions, GitLab CI/CD, Jenkins
+- **DevOps/CI/CD:** Docker, GitHub Actions, Terraform, Jenkins
 - **Task Queues:** Celery, Redis
 - **API Development/Testing:** Postman, Swagger
 - **Testing Tools:** Pytest, UnitTest, Jest, Cypress
