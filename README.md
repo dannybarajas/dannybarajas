@@ -28,7 +28,7 @@ Here are just some of the tech and tools I use:
 
 - **Languages:** Python, JavaScript, Typescript, PHP
 - **Framework/Libraries:** Django, Django Rest Framework, FastAPI, Vue.js, Nuxt.js, React.js, Next.js
-- **Databases:** PostgreSQL, MongoDB, MySQL
+- **Databases:** PostgreSQL, MongoDB, MySQL, GraphQL
 - **Cloud Providers:** AWS, GCP
 - **Version Control:** Git, GitHub, GitLab, Bitbucket
 - **DevOps/CI/CD:** Docker, GitHub Actions, Terraform, Jenkins
@@ -80,7 +80,7 @@ Here are some of the exciting projects I've been working on lately:
 ## 🤝 General Information
 * 🌍  I'm based in Los Angeles, CA
 * 🗣 I speak English and Spanish
-* 🖥️  See my portfolio at [My iWebsite](http://dannybarajas.com)
+* 🖥️  See my portfolio at [My Website](http://dannybarajas.com)
 * ✉️  You can contact me at [dbarajasm93@gmail.com](mailto:dbarajasm93@gmail.com)
 * 🚀  I'm currently working on [Geophysics GPR International](http://geophysicsgpr.com/en/)
 * 🧠  I'm learning Django Channels and Signals | AI | Langchain
@@ -90,7 +90,6 @@ Here are some of the exciting projects I've been working on lately:
 ---
 
 ## 📊 GitHub Stats
-<a href="http://www.github.com/dannybarajas"><img src="https://github-readme-stats.vercel.app/api?username=dannybarajas&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dannybarajas's GitHub stats" /></a>
 
 <a href="https://github.com/dannybarajas" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannybarajas&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Most%20%Used%20%Languages" alt="Most Used Languages" /></a>
 
