@@ -31,6 +31,7 @@ Here are just some of the tech and tools I use:
 - **Databases:** PostgreSQL, MongoDB, MySQL, GraphQL
 - **Cloud Providers:** AWS, GCP
 - **Version Control:** Git, GitHub, GitLab, Bitbucket
+- **CMS and Basic Web Tech**: HTML5, CSS,WordPress, Joomla
 - **DevOps/CI/CD:** Docker, GitHub Actions, Terraform, Jenkins
 - **Task Queues:** Celery, Redis
 - **API Development/Testing:** Postman, Swagger
