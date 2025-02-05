@@ -47,7 +47,7 @@ I’m passionate about programming and deeply understand its ever-evolving natur
 -  [AI Developer by IBM. 2024](https://www.coursera.org/account/accomplishments/professional-cert/BE9MXF5ND81Y)
 -  [**Django Web Framework by Meta**. 2024](https://www.coursera.org/account/accomplishments/verify/J9XPSRMYTTLV)
 -  [**AWS Developer Associate (2024)**](https://www.credly.com/badges/b364b500-9be0-4aa7-ab49-22ef0aac2d8a/linked_in?t=s8uou6)
--  [AWS Certified AI Practitioner (2024)](https://www.credly.com/badges/a0e156a2-e99c-41fa-9ee2-128266f46dc4/public_url)
+-  [AWS Certified AI Practitioner (2024)](https://www.credly.com/badges/4ac2f457-501f-43db-a69d-09b642d39056)
 -  [AWS Cloud Practitioner (2024)](https://www.credly.com/badges/abfef149-c47f-46c3-b019-fc2a5204b2c0/public_url)
 -  [Labor Technician in Programming Skills with an Emphasis on Web Applications. 800 hours. 2023](https://drive.google.com/file/d/1DpGy3qO5-YjekpTjPFTmx33ziWx1iibO/view?usp=sharing)
 -  [**Mision TIC 2022** - Sergio Arboleda University / MinTic. 600 Hours, (2022)](https://drive.google.com/file/d/1DpGy3qO5-YjekpTjPFTmx33ziWx1iibO/view?usp=sharing)
