@@ -33,7 +33,7 @@ Here are just some of the tech and tools I use:
 - **Version Control:** Git, GitHub, GitLab, Bitbucket
 - **CMS and Basic Web Tech**: HTML5, CSS,WordPress, Joomla
 - **DevOps/CI/CD:** Docker, GitHub Actions, Terraform, Jenkins
-- **Task Queues:** Celery, Redis
+- **Task Queues/Caching:** Celery, Redis
 - **API Development/Testing:** Postman, Swagger
 - **Testing Tools:** Pytest, UnitTest, Jest, Cypress
 
