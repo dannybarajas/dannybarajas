@@ -74,7 +74,9 @@ Here are some of the exciting projects I've been working on lately:
 - [**SIGAPI:** Streamlining of Procedures for Citizens of the city of Bucaramanga at the Institute of Social Interest Housing and Urban Reform of the Municipality of Bucaramanga (INVISBU). The ability to request the Certificate of Existence and Legal Representation entirely through a virtual platform, human resources management for the  organization, Citizen Service Record (RAC), integrated quality management system, and MIPG (Public Management and Performance Evaluation Model) implementation.]( https://www.sigapi.invisbu.gov.co/)
 - [Personal Website and Portafolio:](https://dannybarajas.com/)
 - [**Tecnuly** Personal Entrepreneurship: Tecnuly is an online store specializing in fruits, vegetables, and healthy products.](https://tecnuly.com/)
+- [**Geophysics GPR International Website:** Built a multilingual corporate website for geophysical exploration services.](https://geophysicsgpr.com/en)
 - [**SIGID:** Development of a system for tracking and managing the Development Plan of the Santander Governorate.](https://sigid.santander.gov.co)
+- [**District Band Website:** Designed a dynamic website showcasing events, media, and booking options.](https://districtband.ca/)
 - [**Platform for the management of students' Final Degree Projects at IPRED-UIS.** It has been operational for over 8 years to date. Developed in CodeIgniter (PHP), JavaScript, HTML, CSS, and MySQL. ](https://ead.uis.edu.co)
 
 ---
