@@ -45,6 +45,7 @@ I’m passionate about programming and deeply understand its ever-evolving natur
 
 -  [**Postgraduate Specialization in Artificial Intelligence**. 1150 hours. (2025)](https://www.uniminuto.edu/oferta-academica/especializacion-en-inteligencia-artificial/especializacion-en-inteligencia)
 -  CS50's Web Programming with Python and JavaScript. Harvard University (In progress).
+-  [Foundation of Generative AI Nanodegree. 2025](https://www.udacity.com/certificate/e/ebd2b008-b7bc-11ef-a401-1725c62e83e7)
 -  [AI Developer by IBM. 2024](https://www.coursera.org/account/accomplishments/professional-cert/BE9MXF5ND81Y)
 -  [**Django Web Framework by Meta**. 2024](https://www.coursera.org/account/accomplishments/verify/J9XPSRMYTTLV)
 -  [**AWS Developer Associate (2024)**](https://www.credly.com/badges/b364b500-9be0-4aa7-ab49-22ef0aac2d8a/linked_in?t=s8uou6)
