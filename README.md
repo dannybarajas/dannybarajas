@@ -28,7 +28,7 @@ Here are just some of the tech and tools I use:
 
 - **Languages:** Python, JavaScript, Typescript, PHP
 - **Framework/Libraries:** Django, Django Rest Framework, FastAPI, Vue.js, Nuxt.js, React.js, Next.js
-- **Databases:** PostgreSQL, MongoDB, MySQL, GraphQL
+- **Databases:** PostgreSQL, MongoDB, MySQL, Supabase
 - **Artificial Intelligence:** Machine Learning, GenAI, Tensorflow, Pytorch
 - **Cloud Providers:** AWS, GCP
 - **Version Control:** Git, GitHub, GitLab, Bitbucket
