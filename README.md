@@ -29,7 +29,7 @@ Here are just some of the tech and tools I use:
 - **Languages:** Python, JavaScript, Typescript, PHP
 - **Framework/Libraries:** Django, Django Rest Framework, FastAPI, Vue.js, Nuxt.js, ReactJS, NextJS
 - **Databases:** PostgreSQL, MongoDB, MySQL, Supabase
-- **Artificial Intelligence:** Machine Learning, GenAI, Tensorflow, Pytorch
+- **Artificial Intelligence:** Machine Learning, GenAI, Tensorflow, Pytorch, Langchain
 - **Cloud Providers:** AWS, GCP
 - **Version Control:** Git, GitHub, GitLab, Bitbucket
 - **CMS and Basic Web Tech**: HTML5, CSS,WordPress, Joomla
@@ -43,6 +43,7 @@ Here are just some of the tech and tools I use:
 ## 🎓 Education/Certifications
 I’m passionate about programming and deeply understand its ever-evolving nature. To stay ahead, I’m always learning new technologies and, more importantly, applying what I learn to add value to my projects and work. You can click on each certification or degree name to access the respective proof/documentation.
 
+-  [Master's Degree in Big Data and Business Analytics. Structuralia & Universidad Católica San Antonio de Murcia (UCM) ](https://academy.structuralia.com/en/masters/masters-degree-in-big-data-and-business-analytics) (In progress)
 -  [**Postgraduate Specialization in Artificial Intelligence**. 1150 hours. (2025)](https://www.uniminuto.edu/oferta-academica/especializacion-en-inteligencia-artificial/especializacion-en-inteligencia)
 -  CS50's Web Programming with Python and JavaScript. Harvard University (In progress).
 -  [Foundation of Generative AI Nanodegree. 2025](https://www.udacity.com/certificate/e/ebd2b008-b7bc-11ef-a401-1725c62e83e7)
