@@ -12,11 +12,11 @@
 <br/>
 
 ## ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I'm Danny A. Barajas M.
-I'm a Full-Stack  with over 11 years of experience delivering tailored software solutions for both private and public organizations. My expertise lies in Python, JavaScript, and modern frameworks like Django, React, and Vue.js, enabling me to build robust, scalable, and efficient applications.
+I'm a Full-Stack  with over 11 years of experience delivering tailored software solutions for both private and public organizations. My expertise lies in Python, JavaScript, and modern frameworks like Django,FastAPI, React, and Vue.js, enabling me to build robust, scalable, and efficient applications.
 
 I've successfully built projects from scratch and also taken incomplete projects, transforming them into production-ready applications. My experience spans individual contributions as well as leading collaborative teams, driving projects to completion while fostering a positive work environment and encouraging professional growth among team members.
 
-One of my most notable achievements is the development and maintenance of [Masw.ai](https://masw.ai/en/login), the world’s first and only cloud-based, machine learning-assisted MASW processing platform. This project incorporated advanced tools and technologies, including Celery, Redis, Docker, AI, CI/CD pipelines, and AWS, to deliver an innovative, scalable solution that has set a new standard in the industry.
+One of my most notable achievements is the development and maintenance of [Masw.ai](https://masw.ai/en/login), the world’s first and only cloud-based, machine learning-assisted MASW processing platform. This project incorporated advanced tools and technologies, including Celery, Redis, Docker, Machine Learning, CI/CD pipelines, and AWS, to deliver an innovative, scalable solution that has set a new standard in the industry.
 
 ### 🤝 Let's Connect!
 I’m always excited to explore new projects and opportunities to collaborate. Let’s connect and create something impactful together! You can find my socials [here](https://beacons.ai/dannybarajas/)
@@ -29,10 +29,10 @@ Here are just some of the tech and tools I use:
 - **Languages:** Python, JavaScript, Typescript, PHP
 - **Framework/Libraries:** Django, Django Rest Framework, FastAPI, VueJS, Nuxt.js, ReactJS, NextJS
 - **Databases:** PostgreSQL,DynamoDB, MongoDB, MySQL, Supabase
-- **Artificial Intelligence:** Machine Learning, GenAI, Tensorflow, Pytorch, Langchain
+- **Artificial Intelligence:** Machine Learning, GenAI, Deep Learning, Tensorflow, Pytorch, Langchain
 - **Cloud Providers:** AWS, GCP
 - **Version Control:** Git, GitHub, GitLab, Bitbucket
-- **CMS and Basic Web Tech**: HTML5, CSS,WordPress, Joomla
+- **CMS and Basic Web Tech**: HTML5, CSS,WordPress
 - **DevOps/CI/CD:** Docker, GitHub Actions, Terraform, Jenkins
 - **Task Queues/Caching:** Celery, Redis
 - **API Development/Testing:** Postman, Swagger
