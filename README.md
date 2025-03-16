@@ -11,7 +11,7 @@
 
 <br/>
 
-## ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I'm Danny A. Barajas M.
+## ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I'm Danny A. Barajas Moya
 I'm a Full-Stack  with over 11 years of experience delivering tailored software solutions for both private and public organizations. My expertise lies in Python, JavaScript, and modern frameworks like Django,FastAPI, React, and Vue.js, enabling me to build robust, scalable, and efficient applications.
 
 I've successfully built projects from scratch and also taken incomplete projects, transforming them into production-ready applications. My experience spans individual contributions as well as leading collaborative teams, driving projects to completion while fostering a positive work environment and encouraging professional growth among team members.
@@ -33,7 +33,7 @@ Here are just some of the tech and tools I use:
 - **Cloud Providers:** AWS, GCP
 - **Version Control:** Git, GitHub, GitLab, Bitbucket
 - **CMS and Basic Web Tech**: HTML5, CSS,WordPress
-- **DevOps/CI/CD:** Docker, GitHub Actions, Terraform, Jenkins
+- **DevOps/CI/CD:** Docker, GitHub Actions, Terraform, Jenkins, Kubernetes
 - **Task Queues/Caching:** Celery, Redis
 - **API Development/Testing:** Postman, Swagger
 - **Testing Tools:** Pytest, UnitTest, Jest, Cypress
