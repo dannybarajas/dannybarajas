@@ -12,7 +12,7 @@
 <br/>
 
 ## ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I'm Danny A. Barajas Moya
-I'm a Full-Stack  with over 11 years of experience delivering tailored software solutions for both private and public organizations. My expertise lies in Python, JavaScript, and modern frameworks like Django,FastAPI, React, and Vue.js, enabling me to build robust, scalable, and efficient applications.
+I'm a Software Engineer with over 11 years of experience delivering tailored software solutions for both private and public organizations. My expertise lies in Python, JavaScript, and modern frameworks like Django,FastAPI, React, and Vue.js, enabling me to build robust, scalable, and efficient applications.
 
 I've successfully built projects from scratch and also taken incomplete projects, transforming them into production-ready applications. My experience spans individual contributions as well as leading collaborative teams, driving projects to completion while fostering a positive work environment and encouraging professional growth among team members.
 
@@ -74,6 +74,7 @@ Here are some of the exciting projects I've been working on lately:
 - [**HRH Workforce** is a platform designed for human resources management and to offer employment opportunities to qualified professionals in the engineering and related fields who are interested in immigrating to Canada.](https://www.hrhworkforce.com)
 - [**Quickrefrac1D:** Cloud-Based Platform for Geophysicists and Geoscientists.](https://quickrefrac.maia-geo.com/)
 - [**SIGAPI:** Streamlining of Procedures for Citizens of the city of Bucaramanga at the Institute of Social Interest Housing and Urban Reform of the Municipality of Bucaramanga (INVISBU). The ability to request the Certificate of Existence and Legal Representation entirely through a virtual platform, human resources management for the  organization, Citizen Service Record (RAC), integrated quality management system, and MIPG (Public Management and Performance Evaluation Model) implementation.]( https://www.sigapi.invisbu.gov.co/)
+- [**Labmindata**: A platform designed to visualize, process and analyze IoT data in a web environment.](https://labmindata.emprender-soluciones.com/)
 - [**DannyBarajas.com**: Personal Website and Portafolio](https://dannybarajas.com/)
 - [**Tecnuly** Personal Entrepreneurship: Tecnuly is an online store specializing in fruits, vegetables, and healthy products.](https://tecnuly.com/)
 - [**Geophysics GPR International Website:** Built a multilingual corporate website for geophysical exploration services.](https://geophysicsgpr.com/en)
