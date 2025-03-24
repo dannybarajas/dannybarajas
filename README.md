@@ -16,6 +16,8 @@ I'm a Software Engineer with over 11 years of experience delivering tailored sof
 
 I've successfully built projects from scratch and also taken incomplete projects, transforming them into production-ready applications. My experience spans individual contributions as well as leading collaborative teams, driving projects to completion while fostering a positive work environment and encouraging professional growth among team members.
 
+I firmly believe that "if you want to spend without looking at the price, you must work without looking at the clock," and I'm committed to giving my best to help drive the company’s success.
+
 One of my most notable achievements is the development and maintenance of [Masw.ai](https://masw.ai/en/login), the world’s first and only cloud-based, machine learning-assisted MASW processing platform. This project incorporated advanced tools and technologies, including Celery, Redis, Docker, Machine Learning, CI/CD pipelines, and AWS, to deliver an innovative, scalable solution that has set a new standard in the industry.
 
 ### 🤝 Let's Connect!
