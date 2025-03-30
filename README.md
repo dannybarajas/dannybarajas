@@ -91,7 +91,7 @@ Here are some of the exciting projects I've been working on lately:
 * 🗣 I speak English and Spanish
 * 🖥️  See my portfolio at [My Website](http://dannybarajas.com)
 * ✉️  You can contact me at [dbarajasm93@gmail.com](mailto:dbarajasm93@gmail.com)
-* 🚀  I'm currently working on [Geophysics GPR International](http://geophysicsgpr.com/en/)
+* 🚀  I'm currently working on [DPI Labs](https://dpilabs.com/)
 * 🧠  I'm learning Django Channels and Signals | AI | Langchain
 * 🤝  I am always ready to give my best effort, as well as to take on new challenges.
 * ⚡  I consider myself a self-taught enthusiast, there have never been excuses when learning something new and I am in constant professional and intellectual development to continue growing with the evolutionary rhythm of my profession.
